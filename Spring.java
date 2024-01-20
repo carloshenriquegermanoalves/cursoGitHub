@@ -6,4 +6,8 @@ public class Spring {
         JOptionPane.showMessageDialog(null, "Nada");
     }
 
+    public String returnName(String name) {
+        return name;
+    }
+
 }
